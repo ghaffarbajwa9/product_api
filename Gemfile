@@ -45,7 +45,6 @@ group :development do
   # gem "spring"
 end
 
-
-gem "rails_env", "~> 0.1.0"
-
 gem "faker", "~> 3.4"
+
+gem "dotenv-rails", "~> 3.1"
