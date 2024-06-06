@@ -10,7 +10,7 @@ Things you may want to cover:
 
 - postgresql
 
-- System dependencies: cocker, docker-composer
+- System dependencies: docker, docker-composer
 
 - Configuration: bundle install
 
