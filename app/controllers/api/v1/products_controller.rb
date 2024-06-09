@@ -2,7 +2,7 @@
 
 module Api
   module V1
-    class ProductsController < ApplicationController
+    class ProductsController < Api::V1::BaseController
       before_action :set_product, only: %i[show update destroy]
 
       # GET /products
